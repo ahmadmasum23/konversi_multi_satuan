@@ -83,5 +83,4 @@ void main() {
     clearConsole(); // Bersihkan layar untuk tampilkan menu lagi
   }
 }
-
-//niko cob
+// berjalan
