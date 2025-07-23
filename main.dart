@@ -71,10 +71,13 @@ void main() {
         exit(0); // Keluar dari program
       default:
         // Jika pilihan tidak valid
+        print("===============================");
         print('Pilihan tidak valid. Coba lagi.');
+         print("==============================");
     }
 
     // Menunggu pengguna sebelum kembali ke menu utama
+
     print('\nTekan ENTER untuk kembali ke menu utama...');
     stdin.readLineSync();
     clearConsole(); // Bersihkan layar untuk tampilkan menu lagi

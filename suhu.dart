@@ -3,7 +3,7 @@ import 'dart:io';
 
 // Fungsi untuk mengonversi suhu dari Celsius ke Fahrenheit dan Kelvin
 void konversiSuhu() {
-  // Meminta input suhu dari pengguna dalam satuan Celsius
+  // Meminta input suhu dari pengguna dalam satuan Celsius    
   stdout.write('Masukkan suhu dalam Celsius: ');
   
   // Membaca input dari pengguna dan mengubahnya menjadi tipe double

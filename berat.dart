@@ -1,4 +1,4 @@
-// Import pustaka dart:io agar bisa membaca input dari pengguna dan menampilkan output
+// Import pustaka dart:io agar bisa membaca input dari pengguna dan menampilkan output 
 import 'dart:io';
 
 // Fungsi untuk mengonversi berat dari Kilogram ke Gram dan Pon (Pound)
