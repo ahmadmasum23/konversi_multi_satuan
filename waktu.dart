@@ -21,3 +21,4 @@ void konversiWaktu() {
 }
 
 // dlok en
+//u
