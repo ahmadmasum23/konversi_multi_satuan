@@ -19,4 +19,10 @@ void konversiWaktu() {
   print('$jam jam = ${menit.toStringAsFixed(2)} menit');
   print('$jam jam = ${detik.toStringAsFixed(2)} detik');
 }
+<<<<<<< HEAD
 // dlok en
+=======
+
+// dlok en
+//u
+>>>>>>> 2362ea8063461ac9bdb3b451cb9085d36f462b7a
