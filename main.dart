@@ -73,7 +73,7 @@ void main() {
         // Jika pilihan tidak valid
         print("===============================");
         print('Pilihan tidak valid. Coba lagi.');
-         print("==============================");
+        print("==============================");
     }
 
     // Menunggu pengguna sebelum kembali ke menu utama
