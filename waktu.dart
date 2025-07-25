@@ -19,3 +19,4 @@ void konversiWaktu() {
   print('$jam jam = ${menit.toStringAsFixed(2)} menit');
   print('$jam jam = ${detik.toStringAsFixed(2)} detik');
 }
+//masum
