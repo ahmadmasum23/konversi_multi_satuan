@@ -9,7 +9,7 @@ void konversiSuhu() {
   // Membaca input dari pengguna dan mengubahnya menjadi tipe double
   double celsius = double.parse(stdin.readLineSync()!);
   
-  // Menghitung suhu dalam Fahrenheit menggunakan rumus: (C × 9/5) + 32
+  // Menghitung suhu dalam Fahrenheit menggunakan rumus: (C × 9/5) + 32 
   double fahrenheit = (celsius * 9 / 5) + 32;
   
   // Menghitung suhu dalam Kelvin dengan menambahkan 273.15 ke nilai Celsius
