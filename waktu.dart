@@ -5,7 +5,7 @@ import 'dart:io';
 void konversiWaktu() {
   // Meminta pengguna memasukkan waktu dalam satuan jam
   stdout.write('Masukkan waktu dalam jam: ');
-  
+
   // Membaca input dari pengguna dan mengubahnya menjadi tipe double
   double jam = double.parse(stdin.readLineSync()!);
   
